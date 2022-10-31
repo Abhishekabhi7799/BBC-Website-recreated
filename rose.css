@@ -1,0 +1,216 @@
+body{
+
+    margin:0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+#abc{
+
+    margin:0px;
+    padding:5px;
+}
+#topbar{
+    width:100%;
+    height:40px;
+    background-color:white;
+    
+}
+#bbclogo{
+    width:100px;
+    height:35px;
+    margin-top: 0px;
+    float:left;
+    margin-right:8px;
+    padding-left: 100px;
+}
+.topbar-section{
+
+    float:left;
+    border-left: 1px rgb(185, 185, 185) solid;
+    height:100%;
+}
+#signin-image{
+
+    height:25px;
+    width:25px;
+    margin-top:6px;
+    margin-left:6px;
+    float:left;
+}
+#signin-text{
+    font-weight: bold;
+    font-size:90%;
+    position:relative;
+    top: 11px;
+    left:4px;
+    margin-right:75px;
+}
+#signin-text a{
+    text-decoration: none;
+    color:black;
+}
+#bell-icon{
+
+    height:20px;
+    width:20px;
+    margin-top: 10px;
+    margin-left:18px;
+    margin-right: 20px;
+}
+#bell-div{
+    float:left;
+}
+.topbar-menu{
+
+    font-weight: bold;
+    padding:10px 30px 0px 10px;
+    height:24px;
+
+}
+.topbar-menu a{
+
+    text-decoration: none;
+    color:black;
+}
+#search-box{
+
+    background-color: rgb(202, 200, 200);
+    font-size: 120%;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    border:0;
+    text-align: center;
+    margin-top: -4px;
+    margin-bottom: 2px;
+}
+#search-icon{
+    height:25px;
+    width:25px;
+    float:right;
+    margin:-3px 0px 5px 3px;
+
+}
+#menu-bar{
+
+    background-color:#c41306;
+    width:93.4%;
+    height:80px;
+    margin-left: 0px;
+    border-top:1px #cccc solid;
+
+}
+.second-layer{
+
+    color: white;
+    font-size: 43px;
+    padding-left:100px;
+    padding-top:0px;
+}
+#small-bar{
+
+    background-color:gray;
+    width:100%;
+    height:6%;
+
+
+}
+#local-news{
+
+    padding:0.5px 0px 5px 5px;
+    font-size: 25px;
+    font-weight: bold;
+    position: relative;
+    top:-25px;
+    left:1100px;
+    border:1px #BB4545 solid;
+    width:200px;
+    
+
+}
+#local-news a{
+
+    color:black;
+    text-decoration: none;
+}
+#local-news a:hover{
+
+    text-decoration: underline;
+}
+#location-tag{
+
+    width:20px;
+    height:20px;
+
+}
+.clear{
+
+    clear: both;
+}
+#menu-bar-2 a{
+
+color:white;
+text-decoration: none;
+margin-top: 5px;
+padding:0px 15px 0px 1px;
+border-right: 1px black solid;
+font-size: 17px;
+position: relative;
+top:12px;
+}
+.no-boarder{
+
+    border:none !important;
+}
+#down-arrow{
+
+    width:10px;
+    height:10px;
+    position: relative;
+    top:1px;
+    left:-9px;
+}
+
+#container-2{
+
+    font-size: 15px;
+    width:110px;
+    height:30px;
+    position: relative;
+    top:-10px;
+    border-bottom: #c41306 solid 2px;
+    margin-bottom:-1px;
+
+}
+#title-name a{
+
+    text-decoration: none;
+    color:black;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+#title-name a:hover{
+
+    color:#1167a8;
+}
+#title-name{
+
+    width:550px;
+    border-right: 1px gray solid;
+    padding-right: 50px;
+
+}
+#deal-summary{
+
+    font-size: 15px;
+    font-family: "Lucida Console", "Courier New", monospace;
+    
+
+}
+#elon-image{
+
+    width:480px;
+    padding-bottom: 20px;
+}
+
+
